@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294024902395",
+    "project_id": "my-todo-7ae7b",
+    "storage_bucket": "my-todo-7ae7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294024902395:android:64eef61d8aad35c7b4225e",
+        "android_client_info": {
+          "package_name": "com.hackathone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294024902395-aeej3gs7dvvjp6rb6d6brq5v3n4giqds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiKTH0HZJD9spsf2iQB5dtxaAuHagyKos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294024902395-aeej3gs7dvvjp6rb6d6brq5v3n4giqds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
